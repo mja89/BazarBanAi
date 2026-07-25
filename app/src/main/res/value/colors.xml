@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="accent">#00E676</color>
+    
+    <!-- Aliases for Material Theme compatibility -->
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent</color>
+    
+    <!-- Background -->
+    <color name="background_dark">#0F1419</color>
+    <color name="surface_dark">#1A2332</color>
+    
+    <!-- Status Bar -->
+    <color name="status_bar">#1E88E5</color>
+    
+    <!-- Text -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8B9DC3</color>
+    
+    <!-- Alert -->
+    <color name="alert_card_bg">#1A2F1A</color>
+    <color name="alert_yellow">#FFD600</color>
+    
+    <!-- VIP -->
+    <color name="vip_gradient_start">#7B1FA2</color>
+    <color name="vip_gradient_end">#4A148C</color>
+    
+    <!-- Market Colors -->
+    <color name="up_green">#00C853</color>
+    <color name="down_red">#FF1744</color>
+    <color name="neutral_gray">#78909C</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دستیار هوشمند بازاربان</string>
+    <string name="welcome_title">سلام! 👋</string>
+    <string name="welcome_subtitle">دستیار هوشمند مالی شما</string>
+    <string name="quick_access">دسترسی سریع</string>
+    <string name="smart_alert">⚡ هوشمند هشدار</string>
+    <string name="vip_signals">🔒 سیگنال‌دهی حرفه‌ای</string>
+    <string name="vip_description">فیلترهای تکنیکال + نقطه ورود/خروج/استاپ‌لاس</string>
+    <string name="activate">فعال‌سازی</string>
+    <string name="dashboard">داشبورد</string>
+    <string name="currency">ارزها</string>
+    <string name="gold">طلا</string>
+    <string name="stock">بورس</string>
+    <string name="more">بیشتر</string>
+    <string name="forex">فارکس</string>
+    <string name="crypto">ارز دیجیتال</string>
+    <string name="signals">سیگنال‌ها</string>
+    <string name="smart_alerts">هوشمند هشدار</string>
+</resources>
