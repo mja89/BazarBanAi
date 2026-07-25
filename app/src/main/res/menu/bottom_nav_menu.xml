@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="داشبورد" />
+    
+    <item
+        android:id="@+id/nav_currency"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="ارز جهانی" />
+    
+    <item
+        android:id="@+id/nav_gold"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="طلا" />
+    
+    <item
+        android:id="@+id/nav_stock"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="بورس" />
+    
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="بیشتر" />
 
+</menu>
