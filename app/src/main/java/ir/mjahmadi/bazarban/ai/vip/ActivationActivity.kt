@@ -30,3 +30,5 @@ class ActivationActivity : AppCompatActivity() {
         }
     }
 }
+
+w
