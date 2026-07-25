@@ -44,3 +44,5 @@ class VipManager(context: Context) {
         return (remaining / (24 * 60 * 60 * 1000)).toInt()
     }
 }
+
+
